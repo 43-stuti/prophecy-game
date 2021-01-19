@@ -1,0 +1,62 @@
+{
+    "1": {
+        "scene":1,
+        "boxes": [1,2]
+    },
+    "2": {
+        "scene":1,
+        "boxes": [3,4]
+    },
+    "3": {
+        "scene":1,
+        "boxes": [5,6,7],
+        "scenechange":true
+    },
+    "4": {
+        "scene":3,
+        "boxes": [8,9]
+    },
+    "5": {
+          "scene":3,
+          "boxes": [10,11,12]
+      },
+    "6": {
+          "scene":3,
+          "boxes": [13,14]
+      },
+    "7": {
+          "scene":3,
+          "boxes": [15,16]
+      },
+    "8": {
+          "scene":3,
+          "boxes": [17,18]
+      },
+    "9": {
+          "scene":3,
+          "boxes": [19,20,21],
+          "scenechange":true
+      },
+    "10": {
+          "scene":4,
+          "boxes": [22,23]
+      },
+    "11": {
+          "scene":4,
+          "boxes": [24,25]
+      },
+    "12": {
+          "scene":4,
+          "boxes": [26,27,28],
+          "scenechange":true
+      },
+    "13": {
+          "scene":5,
+          "boxes": [29,30],
+          "scenechange":true
+      },
+    "14": {
+          "scene":5,
+          "boxes": [31,32,33]
+      }
+}

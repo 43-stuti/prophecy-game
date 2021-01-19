@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+p {
+  font-family: 'Freckle Face', cursive;
+}
+canvas {
+  display: block;
+}
